@@ -1,4 +1,4 @@
 features:
   toggle:
     meu-financiamento: true
-    meu-carro: false
+    meu-carro: true
